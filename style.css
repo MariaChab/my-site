@@ -1,0 +1,662 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: "Montserrat", sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+background-image: url("img/anastasiya-vysotskaya-v5GfetB7Yv0-unsplash1.png");
+width: 1400px;
+height: 715px;
+top: 0px;
+color: #533738;
+font-size: 16px;
+}
+
+.logo {
+    Width: 25.34px;
+}
+
+.we-help {
+    font-weight: 400; 
+    font-size: 50px;
+    line-height: 62px;
+    width: 534.02px;
+}
+
+header article p {
+    font-weight: 400; 
+    font-size: 18px;
+    line-height: 30px;
+    width: 493.57px;
+    margin-top: 24px;
+    padding-top: 0px;
+    }
+
+header article h1 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.application-button {
+    box-sizing: border-box;
+    width: 309.14px;
+    height: 74px;
+    background-color: #CC8B86;
+    padding-top: 25px;
+    margin-left: 183.01px;
+    position:absolute;
+    top: 473px;
+} 
+
+.application-button a {
+    font-weight: 400; 
+    font-size: 20px;
+    line-height: 24.38px;
+    width: 175.35px;
+    padding-left: 67.91px;
+    text-decoration: none;
+    color:  #533738;
+    }
+
+.application-button a:hover {
+    color: gray;
+    font-size: 24px;
+}
+
+header nav {
+    display: flex;
+    margin: 0px;
+    padding-left: 98.32px;
+    padding-top: 36px;
+}
+
+header nav img, header nav p, header nav a {
+    margin: 0px;
+    padding: 0px;
+} 
+
+header nav a {
+    text-decoration: none;
+    color: #533738;
+}
+
+header nav a:hover {
+    color: gray;
+    font-size: 24px;
+}
+
+
+header article {
+    margin-left: 185.09px;
+    position:absolute;
+    top: 152px;
+}
+
+header{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+nav p {
+    text-transform: uppercase;
+}
+
+header .about-us {
+    padding-left: 89.13px;
+}
+
+header .our-works {
+    padding-left: 26.44px;
+}
+
+header .team {
+    padding-left: 26px;
+}
+
+header .how-we-work {
+    padding-left: 26.16px;
+}
+
+
+header .reviews {
+    padding-left: 26.36px;
+}
+
+header .application {
+    padding-left: 26.32px;
+}
+
+header .number {
+    padding-left: 34.76px;
+}
+
+.compagny-description {
+    background-color: #E5E5E5;
+    margin: 0px;
+    width: 1400px;
+    height: 641px;
+    box-sizing: border-box;
+    padding-top: 65px;
+    color: #533738;
+}
+
+.compagny-description h1 {
+    margin: 0px;
+    font-weight: 400; 
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.compagny-description img {
+    position: absolute;
+    top: 870px;
+    left: 183.76px;
+}
+
+.compagny-description article p {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.compagny-description article {
+    width: 528px;
+    height: 330px;
+    position: absolute;
+    top: 870px;
+    left: 690px;
+}
+
+.compagny-in-numbers {
+    width: 1400px;
+    height: 273px;
+    background-color: #8D7370;
+    color: #FFFFFF;
+    text-align: center;
+    display: flex;
+    box-sizing: border-box;
+    padding-top: 85px;
+    padding-left: 182px;
+}
+
+.how-many {
+    font-size: 50px;
+    line-height: 62px;
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+.what {
+    font-size: 30px;
+    line-height: 36.57px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.projects, .prizes {
+    padding-left: 269px;
+}
+
+
+
+
+
+main .application {
+    width: 1400px;
+    height: 624px;
+    background-color: #8D7370;
+    box-sizing: border-box;
+    display: flex;
+    margin:0px;
+    padding: 0px;
+}
+
+.application-form h1 {
+    color:#FFFFFF;
+    text-transform: uppercase;
+    font-weight: 400; 
+    font-size: 40px;
+    line-height: 50px;
+    padding-top: 50px;
+    padding-left: 181px;
+    padding-bottom: 24px;
+    margin: 0px;
+}
+
+main .application-form p {
+    font-weight: 400; 
+    font-size: 18px;
+    line-height: 30px;
+    color:#FFFFFF;
+    opacity: 0.6;
+    width:507px;
+    padding-left: 182px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 44px;
+}
+
+.type-info {
+    font-weight: 400; 
+    font-size: 18px;
+    line-height: 30px;
+    color: #F6EDE9;
+    background-color: #8D7370;
+    border: none;
+    border-bottom: 1px solid #FFFFFF;
+    width: 508px;
+    
+     }
+
+     .type-info-name {
+         margin-bottom: 40px;}
+
+main .application form {
+    padding-left: 182px;
+}
+
+.submit-button {
+    width: 309.14px;
+    height: 74px;
+    background-color: #CC8B86;
+    color: #533738;
+    font-size: 20px;
+    line-height: 24,38px;
+    border: none;
+    margin-top: 31px;
+}
+
+main .application img {
+    padding-left: 20px;
+}
+
+footer{
+    width: 1400px;
+    height: 104px;
+    background-color: #E5E5E5;  
+    font-size: 18px;
+    line-height: 30px;
+    color: #533738;
+    display: flex;
+    box-sizing: border-box;
+}
+
+footer .number {
+    padding-left: 100px;
+    padding-top: 37px;
+}
+
+footer .adress {
+    padding-left: 42px;
+    padding-top: 37px;
+}
+
+footer .official-name {
+    padding-left: 379px;
+    padding-top: 37px;
+}
+
+
+main .team {
+    width: 1400px;
+    height: 618px;
+    background-color: #E2C4BA;
+    box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+    color: 533738;
+    font-size: 18px;
+line-height: 30px;
+}
+
+
+.team h1 {
+color:#533738;
+text-transform: uppercase;
+font-weight: 400; 
+font-size: 40px;
+line-height: 50px;
+padding-top: 50px;
+padding-left: 587px;
+margin: 0px;
+}
+
+.team ul {
+    display: flex;
+    list-style: none;
+    margin-left: 181px;
+    margin-top: 42px;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.team ul li {
+    padding-right: 38px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    }
+
+
+.masha {
+    width: 320px;
+    height: 180px;
+    margin-top: 10px;
+    padding-top: 0px;
+}
+
+.sasha {
+    width: 320px;
+    height: 150px;
+    margin-top: 10px;
+    padding-top: 0px;
+}
+
+.katya {
+    width: 320px;
+    height: 150px;
+    margin-top: 10px;
+    padding-top: 0px;
+}
+
+
+main .how-we-work {
+    width: 1400px;
+    height: 380px;
+    background-color: #E2C4BA;
+    box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+    color: #533738;
+    font-size: 18px;
+line-height: 30px;
+}
+
+.how-we-work h1 {
+    color:#533738;
+    text-transform: uppercase;
+    font-weight: 400; 
+    font-size: 40px;
+    line-height: 50px;
+    padding-top: 0px;
+    padding-left: 512px;
+        margin: 0px;
+    }
+
+
+    .how-we-work ul {
+    display: flex;
+    list-style: none;
+    margin-left: 99px;
+    margin-top: 40px;
+    padding: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    }
+
+    .work1 {
+        width: 285px;
+        height: 120px;
+        text-align: center;
+    }
+
+    .work2 {
+        width: 285px;
+        height: 90px;
+        text-align: center;
+    }
+
+    .work3 {
+        width: 285px;
+        height: 90px;
+        text-align: center;
+    }
+
+    .work4 {
+        width: 285px;
+        height: 120px;
+        text-align: center;
+    }
+
+    .how-we-work div {
+    width: 70px;
+    height: 70px;
+    color:#FFFFFF;
+    text-transform: uppercase;
+    font-weight: 500; 
+    font-size: 30px;
+    line-height: 30px;
+    background-image: url("img/Ellipse11.png");
+    padding-top: 20px;
+    box-sizing: border-box;
+    margin-left: 107px;
+    }
+
+
+    .how-we-work ul li {
+        padding-right: 20px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+        }
+
+        .how-we-work ul li p {
+            margin-top: 20px;
+        } 
+    
+
+        main .reviews {
+            width: 1400px;
+            height: 788px;
+            background-color: #E5E5E5;
+            box-sizing: border-box;
+            margin:0px;
+            padding: 0px;
+            color: #533738;
+            font-size: 18px;
+        line-height: 30px; 
+        
+        }
+
+        .reviews h1 {
+            color:#533738;
+            text-transform: uppercase;
+            font-weight: 400; 
+            font-size: 40px;
+            line-height: 50px;
+            padding-top: 65px;
+            padding-left: 615px;
+            margin: 0px;
+            }
+
+        .reviews ul {
+            list-style: none;
+        }
+
+        .content-reviews {
+            display: flex;
+            padding-left: 182px;
+            padding-top: 40px;
+        }
+
+        .arrow {
+            width: 72px;
+            height: 72px;
+            background-image: url("img/Ellipse4.2.svg");
+            box-sizing: border-box;
+            padding-left: 20px;
+            padding-top: 25px; 
+            margin-right: 29px;
+            margin-top: 236px;
+                    }
+
+        .text-of-review {
+            margin-right: 20px;
+            padding: 0px;
+            width: 407px;
+            height: 335px;
+            margin-top: 91px;
+        }
+
+        .text-of-review p {
+            margin: 33px 0px;
+        }
+   
+        .author-of-review {
+            width: 180px;
+            height: 30px;
+            margin-top: 19px;
+        }
+
+        .reviews ul {
+            margin: 0px;
+            padding: 0px;
+            margin-right: 29px;
+        }
+
+        .reviews ul li {
+            padding-bottom: 20px;
+        }
+
+
+        main .our-works {
+            width: 1400px;
+            height: 1229px;
+            background-color: #E5E5E5;
+            box-sizing: border-box;
+            margin:0px;
+            padding: 0px;
+            color: #533738;
+            font-size: 18px;
+        line-height: 30px; 
+        }
+
+        .our-works h1 {
+            color:#533738;
+            text-transform: uppercase;
+            font-weight: 400; 
+            font-size: 40px;
+            line-height: 50px;
+            padding-top: 65px;
+            padding-left: 100px;
+            margin: 0px;
+        }
+
+        .our-works ul {
+            display: flex;
+            list-style: none;
+            padding: 0px;
+            padding-left: 100px;
+        }
+
+        .our-works ul li {
+            padding: 0px;
+            padding-right: 20px;
+        }
+
+        .first-line {
+            margin: 0px;
+            margin-top: 40px;
+        }
+
+        .second-line {
+            margin: 0px;
+            margin-top: 30px;
+        }
+
+        .work-for-hover {
+            background-image: url("img/image55.png");
+            background-repeat: no-repeat;
+             width: 488px;
+            height: 451px;
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .description-work-for-hover {
+            color: #FFFFFF;
+            font-size: 18px;
+        line-height: 30px; 
+        background-image: url("img/Rectangle145.png");
+        width: 488px;
+        height: 451px;
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        }
+
+        .description-work-for-hover h2 {
+            margin: 0px;
+            font-size: 30px;
+            line-height: 36.57px;
+            font-weight: 500;
+            width: 270px;
+            text-align: center;
+            padding: 0px;
+            padding-top: 86px;
+            padding-left: 109px;
+        }
+
+        .description-work-for-hover p {
+            margin: 0px;
+            width: 418px;
+            height: 150px;
+           margin-bottom: 122px;
+            padding-left: 35px;
+            padding-bottom: 0px;
+            padding-top: 22px;
+        }
+
+        /*если ховер не нужен -- убрать то, что снизу*/
+        .work-for-hover    .description-work-for-hover {
+            display: none;
+        }
+
+        .work-for-hover:hover    .description-work-for-hover {
+            display: block;
+        }
+        /*если ховер не нужен -- убрать то, что сверху*/
+
+
+        .see-more 
+        {
+            display: flex;
+            margin-left: 553px;
+            margin-top: 40px;
+        }
+
+        .see-more a {
+            color: #533738;
+            font-size: 30px;
+            line-height: 36.57px;
+            font-weight: 500;
+            text-decoration: none;
+            padding: 0px;
+        }
+
+        .see-more a:hover {
+            font-size: 40px;
+        }
+
+        .see-more img {
+            padding-left: 5px;
+        }
+
+        a:hover  .arrow {
+            border-radius: 50%;
+            box-shadow: 0 0 10px #533738;
+        }
+
+        .type-info:focus {
+            border: 2px solid white;
+            color:#CC8B86;
+        }
+
+        .submit-button.type-info-number:hover {
+            cursor: pointer;
+            color:white;
+            font-size: 24px;
+        }
